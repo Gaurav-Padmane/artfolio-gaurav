@@ -1,0 +1,12 @@
+.gallery{
+    width: min(1000px, 100%);
+    margin: 0 auto;
+    columns :3 300px ;
+   column-gap: 3 em;
+}
+
+img{
+    display: block;
+    margin-bottom: 4em;
+    width: 100%;
+}
